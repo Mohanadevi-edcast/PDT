@@ -3,7 +3,7 @@
 
 view: pdt_test_vw {
   derived_table: {
-    datagroup_trigger:pdt_testing
+    # datagroup_trigger:pdt_testing
     explore_source: u2_users_performance_part5_final_results_vw {
       column: performance_metric {}
       column: card_title {}
