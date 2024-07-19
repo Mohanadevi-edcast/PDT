@@ -1,4 +1,4 @@
-connection: "concord_dawn"
+connection: "test_pdt"
 
 include: "/views/*.view.lkml"
 
